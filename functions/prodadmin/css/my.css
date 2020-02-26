@@ -1,0 +1,20 @@
+.form-signin{
+    width: 100%;
+    max-width: 400px;
+    padding: 15px;
+    margin: auto;
+}
+
+div.jumbotron {
+
+        /*setting alpha = 0.1*/ 
+        background: rgba(0, 0, 0, 0.548); 
+        color: blue;
+
+}
+body{
+background-image: url("http://wonderfulengineering.com/wp-content/uploads/2014/10/wood-wallpaper-6.jpg");
+  background-repeat: no-repeat, repeat;
+  background-color: #cccccc;
+
+}
